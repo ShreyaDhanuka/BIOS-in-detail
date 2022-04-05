@@ -1,0 +1,2 @@
+Check Your BIOS Version by Using the System Information Panel. You can also find your BIOS’s version number in the System Information window. On Windows 7, 8, or 10, hit Windows+R, type “msinfo32” into the Run box, and then hit Enter. The BIOS version number is displayed on the System Summary pane.
+You can also open the command prompt and type "msinfo32" to get to know the BIOS version.
