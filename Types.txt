@@ -1,0 +1,3 @@
+There are two different types of BIOS:
+UEFI (Unified Extensible Firmware Interface) BIOS - Any modern PC has a UEFI BIOS. ...
+Legacy BIOS (Basic Input/Output System) - Older motherboards have legacy BIOS firmware for turning on the PC.
